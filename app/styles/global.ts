@@ -9,5 +9,8 @@ export default createGlobalStyle`
   button, a {
     border: none;
     cursor: pointer;
+  },
+  html {
+    scroll-behavior: smooth;
   }
 `
